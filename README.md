@@ -40,6 +40,7 @@ python3 simulation.py
 ```
 gym
 pytorch
+matplotlib
 ```
 
 
